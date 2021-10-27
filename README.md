@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hareeshdwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="hareeshdwivedi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dwivedi_hareesh" target="_blank"><img src="https://img.shields.io/twitter/follow/dwivedi_hareesh?logo=twitter&style=for-the-badge" alt="dwivedi_hareesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dwivedi_hareesh" target="_blank"><img src="https://img.shields.io/twitter/follow/dwivedi_hareesh?logo=twitter&style=for-the-badge" alt="dwivedi_hareesh"></a> </p>
 
 
 
