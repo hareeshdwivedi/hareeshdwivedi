@@ -19,7 +19,7 @@
 
 ---
 
-# 🧬 **Who Am I? (Founder-Energy Mode)**
+# 🧬 **Who Am I? **
 > A system-designer at heart, engineer by craft, and futurist by obsession.
 
 I build **enterprise-grade**, **high-performance**, and **high-resilience** digital systems across  
